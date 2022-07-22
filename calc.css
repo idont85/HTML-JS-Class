@@ -1,5 +1,13 @@
 #answer {
     float: left;
     width: 1340px;
-    height:400px
+    height:100px;
+    background-color: aqua;
+    font-size: 50px;
+    border: 10px;
+    border-color: red;
+}
+
+body {
+    background-color: blanchedalmond;
 }
